@@ -71,10 +71,10 @@ npm run dev
 
 See the `screenshots/` folder for demo images.
 
-- [Login page]('/screenshots/login.jpg)
-- [Home page]('/screenshots/Home.jpg)
-- [Buy credit page]('/screenshots/buy.jpg)
-- [Generate page]('/screenshots/generate.jpg)
+ ![Login page]('/screenshots/login.jpg)
+ ![Home page]('/screenshots/Home.jpg)
+  ![Buy credit page]('/screenshots/buy.jpg)
+  ![Generate page]('/screenshots/generate.jpg)
 
 ## License
 
