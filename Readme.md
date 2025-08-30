@@ -70,7 +70,11 @@ npm run dev
 ## Screenshots
 
 See the `screenshots/` folder for demo images.
-- [Home page](./screenshots/https://github.com/Dharmeshp1582/Imagify_text_to_image/blob/main/screenshots/Imagify%20UI_page-0001.jpg)
+
+- [Login page]('/screenshots/login.jpg)
+- [Home page]('/screenshots/Home.jpg)
+- [Buy credit page]('/screenshots/buy.jpg)
+- [Generate page]('/screenshots/generate.jpg)
 
 ## License
 
