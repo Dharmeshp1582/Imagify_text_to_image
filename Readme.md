@@ -65,7 +65,7 @@ npm run dev
 
 ## Deployment
 
-- The project is ready for deployment on Vercel (see `vercel.json` in both `client/` and `server/`).
+- https://imagify-client-virid.vercel.app/
 
 ## Screenshots
 
